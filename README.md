@@ -1,7 +1,15 @@
 # Overview
 The target of the application is to enable users to append their .csv format docs/reports.
 Functional requirements: 
-- dupa
+- running the app on the server for e.g. in AWS size M5 following requirements are accomplished
+- 2 reports with 1000 entry each will be appended in less than 3 s
+- entired flow will take approximetly 5 s
+- communication encrypted (using https protocol
+- free certificate from Let's Encrypted
+- communication between front-end and back-end will be encrypted as well
+- using REST API (JSON)
+
+Non-functional requirements
 
 
 # Lessons learnt
