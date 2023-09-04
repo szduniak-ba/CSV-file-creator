@@ -3,17 +3,17 @@ The target of the application is to enable users to append their .csv format doc
 
 _**Functional requirements:**_
 
-<ol>
+<ul>
   <li>First item</li>
   <li>Second item</li>
   <li>Third item
-    <ol>
+    <ul>
       <li>Indented item</li>
       <li>Indented item</li>
-    </ol>
+    </ul>
   </li>
   <li>Fourth item</li>
-</ol>
+</ul>
 
 - running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:
 - 2 reports with 1000 entry each will be appended in less than 3 s
