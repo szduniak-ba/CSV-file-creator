@@ -3,17 +3,14 @@ The target of the application is to enable users to append their .csv format doc
 
 _**Functional requirements:**_
 
-<ul>
-  <li>running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:</li>
-      <ul>
-      <li>2 reports with 1000 entry each will be appended in less than 3 s</li>
-      <li> entired flow will take approximately 5 s</li>
-    </ul>
-  <li>communication encrypted (using `https` protocol)</li>
-  <li>free certificate from `Let's Encrypted`</li>
-  <li>communication between front-end and back-end will be encrypted as well</li>
-  <li>using `REST API` (`JSON` format)</li>
-</ul>
+- running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:
+    - 2 reports with 1000 entry each will be appended in less than 3 s
+    - entired flow will take approximately 5 s
+- communication encrypted (using `https` protocol)
+- free certificate from `Let's Encrypted`
+- communication between front-end and back-end will be encrypted as well
+- using `REST API` (`JSON` format)
+
 
 
 _**Non-functional requirements**_
