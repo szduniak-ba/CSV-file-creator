@@ -4,7 +4,11 @@ The target of the application is to enable users to append their .csv format doc
 _**Functional requirements:**_
 
 <ul>
-  <li>First item</li>
+  <li>- running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:</li>
+      <ul>
+      <li>2 reports with 1000 entry each will be appended in less than 3 s</li>
+      <li> entired flow will take approximately 5 s</li>
+    </ul>
   <li>Second item</li>
   <li>Third item
     <ul>
