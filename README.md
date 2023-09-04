@@ -9,7 +9,7 @@ _**Functional requirements:**_
 - communication encrypted (using https protocol)
 - free certificate from Let's Encrypted
 - communication between front-end and back-end will be encrypted as well
-- using 'REST API' ('JSON' format)
+- using `REST API` (`JSON` format)
 
 _**Non-functional requirements**_
 
