@@ -3,7 +3,7 @@ The target of the application is to enable users to append their .csv format doc
 
 _**Functional requirements:**_
 
-<li></li> running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:</li>
+<li>running the app on the server e.g. in **AWS** size `t2.micro` following requirements are accomplished:</li>
 - 2 reports with 1000 entry each will be appended in less than 3 s
 - entired flow will take approximately 5 s
 - communication encrypted (using `https` protocol)
