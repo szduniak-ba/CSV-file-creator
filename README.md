@@ -18,7 +18,7 @@ _**Non-functional requirements**_
 
 # Lessons learnt
 On the way when I was creating the functionality I was facing following questions:
-- Does user should be redirect to page "Forgot my password" or "Log-in page" when its e-mail exists in Database
+
 
 
 # App link repo
