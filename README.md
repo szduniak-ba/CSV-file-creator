@@ -18,6 +18,8 @@ _**Non-functional requirements**_
 
 # Lessons learnt
 On the way when I was creating the functionality I was facing following questions:
+- how to divide activities into pools?
+- 
 
 
 
