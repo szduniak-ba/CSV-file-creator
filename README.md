@@ -24,8 +24,9 @@ On the way when I was creating the functionality I was facing following question
 # App link repo
 Link to app to be provided.
 
-<p align="center">
-  # UML Diagram activity
+
+# UML Diagram activity
+
 </p>
 <p align="center">
 <img src="https://github.com/szduniak-ba/CSV-file-creator/blob/main/UML%20Create%20a%20new%20document%20CSV.jpg" width="450">
