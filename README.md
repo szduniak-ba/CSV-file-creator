@@ -24,7 +24,6 @@ On the way when I was creating the functionality I was facing following question
 # App link repo
 Link to app to be provided.
 
-
 # UML Diagram activity
 
 </p>
